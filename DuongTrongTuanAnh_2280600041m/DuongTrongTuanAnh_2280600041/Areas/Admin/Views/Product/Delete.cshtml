@@ -1,11 +1,13 @@
 ﻿@model DuongTrongTuanAnh_2280600041.Models.Product
+
 @{
-	Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Delete";
+	Layout = "~/Views/shared/_Layout.cshtml";
 }
-<h2>Xóa Sản Phẩm</h2>
-<form asp-action="DeleteConfirmed" method="post">
-	<input type="hidden" asp-for="Id" />
-	<p>Bạn chắc chắc muốn xóa @Model.Name?</p>
-	<button type="submit" class="btn btn-danger">Xác nhận</button>
-	<a asp-action="Index" class="btn btn-secondary">Trở về</a>
-</form> 
+
+<h2>Delete Product</h2>
+<form asp-action="Delete" method="post">
+	 <input type="hidden" asp-for="Id" />
+	 <p>Are you sure you want to delete @Model.Name?</p>
+	 <button type="submit" class="btn btn-danger">Delete</button>
+</form>

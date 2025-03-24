@@ -8329,11 +8329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TH_LTWeb\\Lab_Week03\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
+      "projectUniqueName": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
       "projectName": "DuongTrongTuanAnh_2280600041",
-      "projectPath": "C:\\TH_LTWeb\\Lab_Week03\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
+      "projectPath": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
       "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-      "outputPath": "C:\\TH_LTWeb\\Lab_Week03\\DuongTrongTuanAnh_2280600041\\obj\\",
+      "outputPath": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

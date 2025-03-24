@@ -1,44 +1,45 @@
 ﻿@model IEnumerable<DuongTrongTuanAnh_2280600041.Models.Product>
 
 @{
-	ViewData["Title"] = "Quản Lý Sản Phẩm";
-	Layout = "~/Views/Shared/_Layout.cshtml";
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/shared/_Layout.cshtml";
 }
-<h2>Quản Lý Sản Phẩm</h2>
-<div class="d-flex justify-content-end mb-2">
-	<a asp-action="Add" class="btn btn-primary">Thêm Sản Phẩm</a>
-</div>
+
+<h2>Products</h2>
+<form asp-area="Admin" asp-action="Add" method="post" enctype="multipart/form-data">
+	<button type="submit" class="btn btn-primary">Thêm sản phẩm</button>
+</form>
 <table class="table">
-	<thead> 
-		<tr>
-			<th>Phân loại</th>
-			<th>Tên sản phẩm</th> 
-			<th>Giá</th> 
-			<th>Hình ảnh</th>
-			<th>Mô tả</th>
-			<th>Chức năng</th> 
-		</tr> 
-	</thead> 
-	<tbody> 
+	 <thead>
+		 <tr>
+			 <th>Name</th>
+			 <th>Price</th>
+			 <th>Description</th>
+			 <th>Category</th>
+			 <th>Images</th>
+			 <th>Actions</th>
+		 </tr>
+	 </thead>
+ <tbody>
 		@foreach (var product in Model)
-		{ 
-				<tr>
-					<td>@product.Category?.Name </td>
-					<td>@product.Name</td> 
-					<td>@product.Price</td> 
-					<td>
+		{
+				 <tr>
+					 <td>@product.Name</td>
+					 <td>@product.Price</td>
+					 <td>@product.Description</td>
+					 <td>@product.Category?.Name</td>
+					 <td>
 					@if (!string.IsNullOrEmpty(product.ImageUrl))
 					{
-								<img src="@product.ImageUrl" alt="Product Image" style="max-width: auto;max-height: 100px" />
+								<img src="@product.ImageUrl" alt="Product Image" style="max-width:100px;"/>
 					}
-					</td>
-					<td>@product.Description</td>
-					<td> 
-						<a asp-action="Display" class="btn btn-info" asp-route-id="@product.Id">Chi tiết</a> |
-						<a asp-action="Update" class="btn btn-secondary" asp-route-id="@product.Id">Sửa</a> |
-						<a asp-action="Delete" class="btn btn-danger" asp-route-id="@product.Id">Xóa</a> 
-					</td> 
-				</tr> 
-		} 
-	</tbody> 
+					 </td>
+					 <td>
+						 <a asp-area="Admin" asp-controller="Product" asp-action="Display" asp-route-id="@product.Id" class="btn btn-success">View</a> |
+						 <a asp-area="Admin" asp-controller="Product" asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning">Edit</a> |
+						 <a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+					 </td>
+				 </tr>
+		}
+ </tbody>
 </table>
