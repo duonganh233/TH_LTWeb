@@ -1,0 +1,8 @@
+﻿@model DuongTrongTuanAnh_2280600041.Models.Product
+<h2>Xóa Sản Phẩm</h2>
+<form asp-action="DeleteConfirmed" method="post">
+	<input type="hidden" asp-for="Id" />
+	<p>Bạn chắc chắc muốn xóa @Model.Name?</p>
+	<button type="submit" class="btn btn-danger">Xác nhận</button>
+	<a asp-action="Index" class="btn btn-secondary">Trở về</a>
+</form> 
