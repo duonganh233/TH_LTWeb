@@ -1,0 +1,6 @@
+﻿@model int
+
+<h2>Order Completed Successfully!</h2>
+<p>Your order ID is: <strong>@Model</strong></p>
+<a asp-controller="Order" asp-action="OrderHistory" class="btn btn-primary">View Your Orders</a>
+<a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Continue Shopping</a>

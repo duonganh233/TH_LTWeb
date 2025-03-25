@@ -1,0 +1,714 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\order\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\order\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\migrations\\20250324132731_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\migrations\\20250324132731_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\migrations\\20250324133559_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\migrations\\20250324133559_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|c:\\th_ltweb\\duongtrongtuananh_2280600041m\\duongtrongtuananh_2280600041\\migrations\\20250325013957_initialorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B370B-1A62-4A7D-B75F-1EB04B782BAF}|DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj|solutionrelative:duongtrongtuananh_2280600041\\migrations\\20250325013957_initialorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Order\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\Order\\OrderHistory.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Order\\OrderHistory.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\Order\\OrderHistory.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T02:58:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:07:25.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:19:26.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T01:44:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\Order.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\Order.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:31:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T14:07:45.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:32:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T01:31:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:20:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:56:52.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T01:45:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:32:27.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\SD.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\SD.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:38:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ProductImage.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:38:57.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250325013957_initialOrder.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Migrations\\20250325013957_initialOrder.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Migrations\\20250325013957_initialOrder.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Migrations\\20250325013957_initialOrder.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Migrations\\20250325013957_initialOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:39:57.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\CartItem.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\CartItem.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:19:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:25:42.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:17:51.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:49:50.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:29:51.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:51:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:29:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Display.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Display.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Display.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Display.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:50:51.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Program.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Program.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Program.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:25:40.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:50:39.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:50:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:29:38.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:30:04.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\Category.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\Category.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:37:45.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:30:12.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:50:44.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:23:48.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:39:59.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T15:23:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:49:35.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\appsettings.json",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\appsettings.json",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\appsettings.json",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T13:28:37.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T13:29:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:36:43.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAIwJ4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:36:45.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250324133559_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Migrations\\20250324133559_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Migrations\\20250324133559_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Migrations\\20250324133559_ExtendIdentityUser.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Migrations\\20250324133559_ExtendIdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:35:59.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:34:06.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250324132731_AddIdentity.cs",
+              "DocumentMoniker": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Migrations\\20250324132731_AddIdentity.cs",
+              "RelativeDocumentMoniker": "DuongTrongTuanAnh_2280600041\\Migrations\\20250324132731_AddIdentity.cs",
+              "ToolTip": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\Migrations\\20250324132731_AddIdentity.cs",
+              "RelativeToolTip": "DuongTrongTuanAnh_2280600041\\Migrations\\20250324132731_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:27:31.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
