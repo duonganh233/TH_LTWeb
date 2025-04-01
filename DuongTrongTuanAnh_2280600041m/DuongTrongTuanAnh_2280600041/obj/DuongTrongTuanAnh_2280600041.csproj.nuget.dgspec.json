@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj": {}
+    "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj": {}
   },
   "projects": {
-    "D:\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj": {
+    "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
+        "projectUniqueName": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
         "projectName": "DuongTrongTuanAnh_2280600041",
-        "projectPath": "D:\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
+        "projectPath": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\DuongTrongTuanAnh_2280600041.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "D:\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\obj\\",
+        "outputPath": "C:\\TH_LTWeb\\DuongTrongTuanAnh_2280600041m\\DuongTrongTuanAnh_2280600041\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
